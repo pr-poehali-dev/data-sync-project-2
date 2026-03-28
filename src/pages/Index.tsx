@@ -7,7 +7,7 @@ const dishes = [
     tag: "Хит",
     tagColor: "var(--primary)",
     tagTextColor: "white",
-    img: "https://images.unsplash.com/photo-1534080564583-6be75777b70a?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/b6388f56-c8a7-412d-b4e5-3ac12fae7f12.jpg",
     method: "Плита",
     description: "Классическое испанское блюдо из риса с морепродуктами, шафраном и паприкой.",
     recipe: [
@@ -26,7 +26,7 @@ const dishes = [
     tag: "Популярное",
     tagColor: "var(--accent)",
     tagTextColor: "var(--dark)",
-    img: "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/874a1d31-6ffe-4291-9006-ed349bf70fbb.jpg",
     method: "Плита",
     description: "Жареная рисовая лапша с яйцом, ростками сои, арахисом и соусом тамаринд.",
     recipe: [
@@ -45,7 +45,7 @@ const dishes = [
     tag: "Мультиварка",
     tagColor: "var(--secondary)",
     tagTextColor: "white",
-    img: "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/366eea2e-a5b9-475d-97b8-abbeac8b3229.jpg",
     method: "Мультиварка",
     description: "Кремовый рис с белыми грибами, пармезаном и белым вином.",
     recipe: [
@@ -64,7 +64,7 @@ const dishes = [
     tag: "Аэрогриль",
     tagColor: "#ff8c00",
     tagTextColor: "white",
-    img: "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/9132f69b-73f0-4b79-9f7a-e3f99a94565a.jpg",
     method: "Аэрогриль",
     description: "Хрустящие крылья в соусе буффало — культовое американское блюдо.",
     recipe: [
@@ -83,7 +83,7 @@ const dishes = [
     tag: "Классика",
     tagColor: "#c0392b",
     tagTextColor: "white",
-    img: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/cd374ddb-2e9c-4756-843a-ae8d94c481af.jpg",
     method: "Плита / Мультиварка",
     description: "Наваристый свекольный суп со сметаной — символ восточноевропейской кухни.",
     recipe: [
@@ -102,7 +102,7 @@ const dishes = [
     tag: "Аэрогриль",
     tagColor: "#ff8c00",
     tagTextColor: "white",
-    img: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/5dbd6564-d12a-4374-9dbe-c3cd199c0b35.jpg",
     method: "Аэрогриль",
     description: "Нежное филе лосося с лимоном и травами — быстрый и полезный ужин.",
     recipe: [
@@ -124,7 +124,7 @@ const places = [
     type: "Для всех",
     solo: true,
     family: true,
-    img: "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/a4f5b7e0-4bb2-4143-a2f6-d38e148ab079.jpg",
     why: "Барселона — это город, который невозможно не полюбить. Здесь соседствуют пляж и горы, уличная еда мирового уровня и великие архитекторы. Это одна из самых гастрономически богатых столиц Европы.",
     description: "Архитектура Гауди, пляжи, тапас-бары и живой рынок Бокерия. Идеально для семьи и соло.",
     sights: [
@@ -144,7 +144,7 @@ const places = [
     type: "Для двоих",
     solo: true,
     family: false,
-    img: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/4b19acfd-fdca-4ff1-9843-434508208cc6.jpg",
     why: "Киото — настоящая душа Японии. Более 1600 буддийских храмов, традиционные чайные церемонии, гейши и цветение сакуры. Здесь время замедляется.",
     description: "Тысячи храмов, чайные церемонии и цветение сакуры. Медитативный отдых для двоих.",
     sights: [
@@ -164,7 +164,7 @@ const places = [
     type: "Соло / Семья",
     solo: true,
     family: true,
-    img: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/36dc3545-ca72-473e-9e9b-fe87d82a3639.jpg",
     why: "Тбилиси — город контрастов, где средневековые башни соседствуют с хипстерскими кофейнями. Грузинская кухня входит в топ-10 лучших в мире, а люди здесь невероятно гостеприимны.",
     description: "Уютные переулки, вкуснейшая кухня, хачапури и хинкали. Один из лучших гастро-городов мира.",
     sights: [
@@ -184,7 +184,7 @@ const places = [
     type: "Соло",
     solo: true,
     family: false,
-    img: "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/0baeed3d-12a8-4c6b-8db2-c066c50b1fb2.jpg",
     why: "Амстердам — один из самых свободных и велосипедных городов мира. Здесь больше каналов, чем в Венеции, а музеи входят в мировой топ. Идеален для вдумчивого соло-путешествия.",
     description: "Каналы, велосипеды, музеи Ван Гога и Рембрандта. Идеален для культурного соло.",
     sights: [
@@ -204,7 +204,7 @@ const places = [
     type: "Для всех",
     solo: true,
     family: true,
-    img: "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/29735ad0-ae0f-4a69-adc6-949099a0694c.jpg",
     why: "Стамбул — город на двух континентах, Европе и Азии. Здесь пять тысяч лет истории, базары с пряностями, мечети с золотыми куполами и уличная еда, от которой невозможно оторваться.",
     description: "На стыке Европы и Азии — мечети, базары, Босфор и лучшая уличная еда мира.",
     sights: [
@@ -224,7 +224,7 @@ const places = [
     type: "Семья / Соло",
     solo: true,
     family: true,
-    img: "https://images.unsplash.com/photo-1541849546-216549ae216d?auto=format&fit=crop&w=600&q=80",
+    img: "https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/ec13b877-0cf4-4098-a540-fb7b6119207d.jpg",
     why: "Прага — один из самых красивых средневековых городов Европы. Здесь практически нетронутая историческая застройка, лучшее пиво в мире и уютные погребки с трдлами.",
     description: "Средневековые улочки, замок, пиво №1 в мире и сказочная атмосфера.",
     sights: [
@@ -523,16 +523,16 @@ export default function Index() {
           </h2>
           <div className="social-grid">
             <div className="social-item">
-              <img src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=400&q=80" alt="Ресторан" />
+              <img src="https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/b6388f56-c8a7-412d-b4e5-3ac12fae7f12.jpg" alt="Паэлья" />
             </div>
             <div className="social-item">
-              <img src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=400&q=80" alt="Еда" />
+              <img src="https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/a4f5b7e0-4bb2-4143-a2f6-d38e148ab079.jpg" alt="Барселона" />
             </div>
             <div className="social-item">
-              <img src="https://images.unsplash.com/photo-1600891964092-4316c288032e?auto=format&fit=crop&w=400&q=80" alt="Приготовление" />
+              <img src="https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/874a1d31-6ffe-4291-9006-ed349bf70fbb.jpg" alt="Пад Тай" />
             </div>
             <div className="social-item">
-              <img src="https://images.unsplash.com/photo-1528360983277-13d401cdc186?auto=format&fit=crop&w=400&q=80" alt="Путешествие и еда" />
+              <img src="https://cdn.poehali.dev/projects/163a35ef-faf7-4d89-bafe-906d3923c21b/files/4b19acfd-fdca-4ff1-9843-434508208cc6.jpg" alt="Киото" />
             </div>
           </div>
         </section>
